@@ -1,0 +1,21 @@
+Calm: Soft melodies, slow tempo, minimal percussion, suitable for meditation or peaceful evenings.
+Energetic: Fast-paced rhythm, strong beats, high energy suitable for workouts or dance floors.
+Melancholic: Emotional tone, minor keys, slow to moderate tempo, evokes sadness or nostalgia.
+Happy: Bright chords, upbeat rhythm, cheerful melodies with a joyful vibe.
+Romantic: Warm harmonies, slow tempo, smooth instrumentation ideal for intimate moments.
+Dreamy: Ethereal textures, ambient layers, reverb-heavy sounds for a floating, otherworldly feel.
+Epic: Bold orchestration, strong crescendos, cinematic structure, great for trailers or motivation.
+Dark: Minor scale, deep bass, tense atmosphere, often used in suspense or horror settings.
+Lo-fi: Chill beats, vinyl crackle, jazzy chords, perfect for study or relaxation.
+Inspiring: Uplifting progressions, motivating tempo, builds emotion and drive.
+pawan mood: soft piano, chill late night party music, slow tempo
+Groovy: Funky basslines, rhythmic patterns, smooth syncopation, makes you want to move.
+Mysterious: Unpredictable melodies, dissonant elements, ambient textures that spark curiosity.
+Peaceful: Gentle tones, acoustic sounds, minimalism that soothes and calms the listener.
+Sad: Slow tempo, minimal instrumentation, emotional melodies that evoke deep feelings.
+Ambient: No structured rhythm, evolving textures and drones ideal for background or focus.
+Aggressive: Heavy bass, distorted elements, intense beats for hype or action scenes.
+Relaxed: Laid-back rhythm, warm tones, smooth transitions for an easygoing vibe.
+Hopeful: Major scales, gradual build-ups, inspiring tones that evoke positivity.
+Tense: High dissonance, staccato rhythms, fast pulses, often used to build suspense.
+Magical: Harps, bells, whimsical instrumentation, conjures fantasy or childlike wonder.
